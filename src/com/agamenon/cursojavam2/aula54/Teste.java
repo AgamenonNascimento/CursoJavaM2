@@ -11,6 +11,10 @@ public class Teste {
 		Data data = new Data( 1, 12, 2025 , DiaSemana.SEGUNDA);
 		
 		System.out.println(data.getDiasemana());
+		
+		MesAno data1 = MesAno.DEZEMBRO;
+		
+		System.out.println(data1.getNome() + " - " + data1.getNumero());
 
 	}
 

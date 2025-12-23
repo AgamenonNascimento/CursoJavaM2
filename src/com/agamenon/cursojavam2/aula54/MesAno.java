@@ -14,8 +14,8 @@ public enum MesAno {
     NOVEMBRO(11, "Novembro"),
     DEZEMBRO(12, "Dezembro");
 
-    private final int numero;
-    private final String nome;
+    private int numero;
+    private String nome;
 
     MesAno(int numero, String nome) {
         this.numero = numero;
