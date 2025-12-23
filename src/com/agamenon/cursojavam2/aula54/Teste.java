@@ -8,7 +8,7 @@ public class Teste {
 		
 		System.out.println(dia.toString() + " - " + dia.getValor());
 		
-		Data data = new Data(2, 12, 2025 , DiaSemana.SEGUNDA);
+		Data data = new Data(3, 12, 2025 , DiaSemana.SEGUNDA);
 		
 		System.out.println(data.getDiasemana());
 		
