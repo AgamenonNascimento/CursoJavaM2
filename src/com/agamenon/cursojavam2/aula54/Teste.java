@@ -12,10 +12,9 @@ public class Teste {
 		
 		System.out.println(data.getDiasemana());
 		
-		MesAno data1 = MesAno.JANEIRO;
 		
-		System.out.println(data1.getNome() + " - " + data1.getNumero());
-
+		
+		
 	}
 
 }
