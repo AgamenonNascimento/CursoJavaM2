@@ -1,3 +1,5 @@
+package com.agamenon.cursojavam2.aula54;
+
 public enum MesAno {
     JANEIRO(1, "Janeiro"),
     FEVEREIRO(2, "Fevereiro"),
